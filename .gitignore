@@ -2,3 +2,4 @@
 .framework_path
 assets/*
 protected/runtime/*
+protected/config/dev.php
