@@ -1,1 +1,4 @@
 .DS_Store
+.framework_path
+assets/*
+protected/runtime/*
