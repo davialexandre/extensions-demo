@@ -1,0 +1,3 @@
+[submodule "protected/extensions/yiinfinite-scroll"]
+	path = protected/extensions/yiinfinite-scroll
+	url = git://github.com/davialexandre/yiinfinite-scroll.git
