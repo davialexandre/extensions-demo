@@ -227,3 +227,46 @@ div.search-form
 {
 	background: #80CFFF;
 }
+
+/**
+* Yiinfinite-scroll
+*/
+
+.items {
+    width: 500px;
+    float: right;
+    margin-right: 100px;
+}
+
+.items .item {
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.items .item img {
+    float: left;
+}
+
+.items .item p {
+    margin: 0px 0px 0px 60px;
+}
+
+.items .item .author {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.items .item .message {
+    font-size: 15px;
+}
+
+.items .item .publication_date {
+    font-size: 11px;
+    color: #999;
+    margin-top: 5px;
+}
+
+.extension-information {
+    width: 300px;
+    float: left;
+}
