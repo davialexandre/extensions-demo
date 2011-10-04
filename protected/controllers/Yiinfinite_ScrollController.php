@@ -16,6 +16,9 @@ class Yiinfinite_ScrollController extends Controller {
         $this->render('index', array('provider' => $provider));
     }
     
+    public function actionCode() {
+        $this->renderPartial('code');
+    }
 }
 
 

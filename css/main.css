@@ -270,3 +270,14 @@ div.search-form
     width: 300px;
     float: left;
 }
+
+.code {
+    width: 750px;
+    background-color: #ddd;
+}
+
+p.file {
+    font-weight: bold;
+    font-size: 14px;
+    margin: 15px 0 5px 0;
+}
