@@ -14,8 +14,12 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/main.css" />
 	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/form.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/colorbox.css" />
+	<?php Yii::app()->clientScript->registerCssFile(Yii::app()->baseUrl.'/css/shCore.css'); ?>
+	<?php Yii::app()->clientScript->registerCssFile(Yii::app()->baseUrl.'/css/shThemeDefault.css'); ?>
     <?php Yii::app()->clientScript->registerCoreScript('jquery'); ?>
     <?php Yii::app()->clientScript->registerScriptFile(Yii::app()->baseUrl.'/js/jquery.colorbox-min.js'); ?>
+    <?php Yii::app()->clientScript->registerScriptFile(Yii::app()->baseUrl.'/js/shCore.js'); ?>
+    <?php Yii::app()->clientScript->registerScriptFile(Yii::app()->baseUrl.'/js/shBrushPhp.js'); ?>
     <?php Yii::app()->clientScript->registerScript('colorbox', '$(".colorbox").colorbox({maxHeight: "80%"})', CClientScript::POS_READY); ?>
 	<title><?php echo CHtml::encode($this->pageTitle); ?></title>
 </head>
