@@ -1,3 +1,9 @@
+<div class="extension-information">
+    <h2>Yiinfinite-Scroll</h2>
+    <p>This extension uses the infinite scroll jQuery plugin, from http://www.infinite-scroll.com/ to create an infinite scrolling pagination, like in twitter. This kind of pagination is also called Endless Scroll.</p>
+    <p>Scroll down and see the magic happen!</p>
+    <p><?php echo CHtml::link('Show me the code!', array('yiinfinite_scroll/code'), array('class' => 'colorbox')); ?></p>
+</div>
 <div class="items">
     <div class="messages">
         <?php foreach($provider->getData() as $i => $item): ?>
@@ -10,10 +16,4 @@
         <?php endforeach; ?>
     </div>
     <?php $this->widget('ext.yiinfinite-scroll.YiinfiniteScroller', array('itemSelector' => 'div.items', 'pages' => $provider->pagination)); ?>
-</div>
-<div class="extension-information">
-    <h2>Yiinfinite-Scroll</h2>
-    <p>This extension uses the infinite scroll jQuery plugin, from http://www.infinite-scroll.com/ to create an infinite scrolling pagination, like in twitter. This kind of pagination is also called Endless Scroll.</p>
-    <p>Scroll down and see the magic happen!</p>
-    <p><?php echo CHtml::link('Show me the code!', array('yiinfinite_scroll/code'), array('class' => 'colorbox')); ?></p>
 </div>
