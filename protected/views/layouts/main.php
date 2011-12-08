@@ -34,9 +34,9 @@
 	<div id="mainmenu">
 		<?php $this->widget('zii.widgets.CMenu',array(
 			'items'=>array(
-				array('label'=>'Yiinfinite-Scroll', 'url'=>array('yiinfinite_scroll/index')),
-				array('label'=>'Simple Calendar', 'url'=>array('simple_calendar/index')),
-                array('label' => 'Contact', 'url'=>array('site/contact')),
+				array('label'=>'Yiinfinite-Scroll', 'url'=>array('/yiinfinite_scroll')),
+				array('label'=>'Simple Calendar', 'url'=>array('/simple_calendar')),
+                array('label' => 'Contact', 'url'=>'http://davialexandre.com.br'),
 			),
 		)); ?>
 	</div><!-- mainmenu -->
