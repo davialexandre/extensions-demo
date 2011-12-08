@@ -49,7 +49,9 @@
 	<?php echo $content; ?>
 
 	<div id="footer">
-		<?php echo Yii::powered(); ?>
+        Github icon by <a href="http://paulrobertlloyd.com/2009/06/social_media_icons/" target="_blank">Paul Robert Lloyd</a><br />
+        Fugue icons by <a href="http://p.yusukekamiyamane.com/" target="_blank">Yusuke Kamiyamane</a><br />
+        <?php echo Yii::powered(); ?>
 	</div><!-- footer -->
 
 </div><!-- page -->
