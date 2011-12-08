@@ -31,7 +31,7 @@ return array (
   3 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/rafaelmartines>@rafaelmartines</a> <a href=http://twitter.com/heloisapires>@heloisapires</a> escreve sem acento mesmo. muito mais legal.',
+    'Message' => ' <a href="http://twitter.com/rafaelmartines" target="_blank">@rafaelmartines</a> <a href="http://twitter.com/heloisapires" target="_blank">@heloisapires</a> escreve sem acento mesmo. muito mais legal.',
     'Time' => '1317618574',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/120651671683604480',
@@ -67,7 +67,7 @@ return array (
   7 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I unlocked the The Office Fan sticker on <a href=http://twitter.com/GetGlue>@GetGlue</a>! http://t.co/CMYIAIRC',
+    'Message' => ' I unlocked the The Office Fan sticker on <a href="http://twitter.com/GetGlue" target="_blank">@GetGlue</a>! http://t.co/CMYIAIRC',
     'Time' => '1317549858',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/120363453549518848',
@@ -85,7 +85,7 @@ return array (
   9 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I just unlocked the Crunked badge on <a href=http://twitter.com/foursquare>@foursquare</a>! http://t.co/RUnJfBvW',
+    'Message' => ' I just unlocked the Crunked badge on <a href="http://twitter.com/foursquare" target="_blank">@foursquare</a>! http://t.co/RUnJfBvW',
     'Time' => '1317535398',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/120302806522527744',
@@ -94,7 +94,7 @@ return array (
   10 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I\'m watching O Homem Do Futuro http://t.co/bsGgD1Po <a href=http://twitter.com/GetGlue>@GetGlue</a> #OHomemDoFuturo',
+    'Message' => ' I\'m watching O Homem Do Futuro http://t.co/bsGgD1Po <a href="http://twitter.com/GetGlue" target="_blank">@GetGlue</a> #OHomemDoFuturo',
     'Time' => '1317535397',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/120302799123787777',
@@ -175,7 +175,7 @@ return array (
   19 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I unlocked the Fringe: One Night in October sticker on <a href=http://twitter.com/GetGlue>@GetGlue</a>! http://t.co/mlXbKNdy',
+    'Message' => ' I unlocked the Fringe: One Night in October sticker on <a href="http://twitter.com/GetGlue" target="_blank">@GetGlue</a>! http://t.co/mlXbKNdy',
     'Time' => '1317458637',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/119980847863570432',
@@ -184,7 +184,7 @@ return array (
   20 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I\'m watching Fringe (5257 others checked-in) http://t.co/L3ml8vbw <a href=http://twitter.com/GetGlue>@GetGlue</a> <a href=http://twitter.com/FRINGEonFOX>@FRINGEonFOX</a>',
+    'Message' => ' I\'m watching Fringe (5257 others checked-in) http://t.co/L3ml8vbw <a href="http://twitter.com/GetGlue" target="_blank">@GetGlue</a> <a href="http://twitter.com/FRINGEonFOX" target="_blank">@FRINGEonFOX</a>',
     'Time' => '1317458634',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/119980834240471040',
@@ -193,7 +193,7 @@ return array (
   21 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' E não foi uma única vez que isso aconteceu. É diário. Deve ser muito engraçado mesmo ver o povo babaca se fodendo, né <a href=http://twitter.com/metrosp_oficial>@metrosp_oficial</a> ?',
+    'Message' => ' E não foi uma única vez que isso aconteceu. É diário. Deve ser muito engraçado mesmo ver o povo babaca se fodendo, né <a href="http://twitter.com/metrosp_oficial" target="_blank">@metrosp_oficial</a> ?',
     'Time' => '1317426107',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/119844403769655296',
@@ -202,7 +202,7 @@ return array (
   22 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' Outra palhaçada do <a href=http://twitter.com/metrosp_oficial>@metrosp_oficial</a>. Horário de pico, pessoas esmagadas na plataforma e os funcionários conversando e dando gargalhadas!',
+    'Message' => ' Outra palhaçada do <a href="http://twitter.com/metrosp_oficial" target="_blank">@metrosp_oficial</a>. Horário de pico, pessoas esmagadas na plataforma e os funcionários conversando e dando gargalhadas!',
     'Time' => '1317426065',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/119844230742032384',
@@ -211,7 +211,7 @@ return array (
   23 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' Quer dizer que o <a href=http://twitter.com/metrosp_oficial>@metrosp_oficial</a> não aceita reclamações sobre a linha 4? Muito legal isso... mas na hora dos elogios pode ser com ele mesmo',
+    'Message' => ' Quer dizer que o <a href="http://twitter.com/metrosp_oficial" target="_blank">@metrosp_oficial</a> não aceita reclamações sobre a linha 4? Muito legal isso... mas na hora dos elogios pode ser com ele mesmo',
     'Time' => '1317425756',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/119842932005150720',
@@ -220,7 +220,7 @@ return array (
   24 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/rafaelmartines>@rafaelmartines</a> não necessariamente. A pessoa pode ter 1000 amigos e ainda assim ser mongol retardada.',
+    'Message' => ' <a href="http://twitter.com/rafaelmartines" target="_blank">@rafaelmartines</a> não necessariamente. A pessoa pode ter 1000 amigos e ainda assim ser mongol retardada.',
     'Time' => '1317419485',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/119816630015492096',
@@ -256,7 +256,7 @@ return array (
   28 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/rafaelmartines>@rafaelmartines</a> <a href=http://twitter.com/metrosp_oficial>@metrosp_oficial</a> o perfil responde sim os usuários, mas só quando é conveniente. Reclamações parecem que são evitadas.',
+    'Message' => ' <a href="http://twitter.com/rafaelmartines" target="_blank">@rafaelmartines</a> <a href="http://twitter.com/metrosp_oficial" target="_blank">@metrosp_oficial</a> o perfil responde sim os usuários, mas só quando é conveniente. Reclamações parecem que são evitadas.',
     'Time' => '1317412763',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/119788436273115136',
@@ -265,7 +265,7 @@ return array (
   29 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/rafaelmartines>@rafaelmartines</a> <a href=http://twitter.com/metrosp_oficial>@metrosp_oficial</a> contando pelas mentions o número é bem baixo. Mesmo que não fosse, se não sabe brincar não desce pro play.',
+    'Message' => ' <a href="http://twitter.com/rafaelmartines" target="_blank">@rafaelmartines</a> <a href="http://twitter.com/metrosp_oficial" target="_blank">@metrosp_oficial</a> contando pelas mentions o número é bem baixo. Mesmo que não fosse, se não sabe brincar não desce pro play.',
     'Time' => '1317412680',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/119788088921825280',
@@ -274,7 +274,7 @@ return array (
   30 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' fico puto com essas empresas que fazem perfil no twitter, postam diariamente, mas não respondem os usuários.  Ex: <a href=http://twitter.com/metrosp_oficial>@metrosp_oficial</a>',
+    'Message' => ' fico puto com essas empresas que fazem perfil no twitter, postam diariamente, mas não respondem os usuários.  Ex: <a href="http://twitter.com/metrosp_oficial" target="_blank">@metrosp_oficial</a>',
     'Time' => '1317407656',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/119767014310023169',
@@ -283,7 +283,7 @@ return array (
   31 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I unlocked the Critic(25) sticker on <a href=http://twitter.com/GetGlue>@GetGlue</a>! http://t.co/l3r0Wc7W',
+    'Message' => ' I unlocked the Critic(25) sticker on <a href="http://twitter.com/GetGlue" target="_blank">@GetGlue</a>! http://t.co/l3r0Wc7W',
     'Time' => '1317404940',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/119755624421654528',
@@ -292,7 +292,7 @@ return array (
   32 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' crescei e multiplicai-vos RT <a href=http://twitter.com/rafaelmartines>@rafaelmartines</a>: Mania que o povo tem de casar e arranjar filho... se filho fosse bom vc não conseguia de graça',
+    'Message' => ' crescei e multiplicai-vos RT <a href="http://twitter.com/rafaelmartines" target="_blank">@rafaelmartines</a>: Mania que o povo tem de casar e arranjar filho... se filho fosse bom vc não conseguia de graça',
     'Time' => '1317404663',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/119754460976254976',
@@ -301,7 +301,7 @@ return array (
   33 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' Ola <a href=http://twitter.com/metrosp_oficial>@metrosp_oficial</a>, qual o motivo do tempo de parada dos trens nas estações da linha 4 estar aumentando a cada dia?',
+    'Message' => ' Ola <a href="http://twitter.com/metrosp_oficial" target="_blank">@metrosp_oficial</a>, qual o motivo do tempo de parada dos trens nas estações da linha 4 estar aumentando a cada dia?',
     'Time' => '1317402635',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/119745955632390144',
@@ -310,7 +310,7 @@ return array (
   34 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/andopes>@andopes</a> <a href=http://twitter.com/heloisapires>@heloisapires</a> nenhum dos tres. Moises foi muito mais foda, preferiu abrir o mar no meio e passar.',
+    'Message' => ' <a href="http://twitter.com/andopes" target="_blank">@andopes</a> <a href="http://twitter.com/heloisapires" target="_blank">@heloisapires</a> nenhum dos tres. Moises foi muito mais foda, preferiu abrir o mar no meio e passar.',
     'Time' => '1317400892',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/119738647418380288',
@@ -328,7 +328,7 @@ return array (
   36 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I\'m a Fan of The Big Bang Theory on <a href=http://twitter.com/GetGlue>@GetGlue</a> http://t.co/D2BqKObr',
+    'Message' => ' I\'m a Fan of The Big Bang Theory on <a href="http://twitter.com/GetGlue" target="_blank">@GetGlue</a> http://t.co/D2BqKObr',
     'Time' => '1317362751',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/119578670183620608',
@@ -337,7 +337,7 @@ return array (
   37 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/andopes>@andopes</a> faz um assim: http://t.co/PXkJ6LXA',
+    'Message' => ' <a href="http://twitter.com/andopes" target="_blank">@andopes</a> faz um assim: http://t.co/PXkJ6LXA',
     'Time' => '1317340240',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/119484253284220929',
@@ -346,7 +346,7 @@ return array (
   38 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/andopes>@andopes</a> defina gabinete expressivo',
+    'Message' => ' <a href="http://twitter.com/andopes" target="_blank">@andopes</a> defina gabinete expressivo',
     'Time' => '1317339448',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/119480932993474562',
@@ -373,7 +373,7 @@ return array (
   41 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' SOU FODA RT <a href=http://twitter.com/heloisapires>@heloisapires</a>: digdin digdin digdin',
+    'Message' => ' SOU FODA RT <a href="http://twitter.com/heloisapires" target="_blank">@heloisapires</a>: digdin digdin digdin',
     'Time' => '1317318257',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/119392050780192769',
@@ -391,7 +391,7 @@ return array (
   43 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' the github support in <a href=http://twitter.com/aboutdotme>@aboutdotme</a> is great, but I think we need a better icon for it. The big G made me think it was a google service =/',
+    'Message' => ' the github support in <a href="http://twitter.com/aboutdotme" target="_blank">@aboutdotme</a> is great, but I think we need a better icon for it. The big G made me think it was a google service =/',
     'Time' => '1317237749',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/119054375229464576',
@@ -400,7 +400,7 @@ return array (
   44 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I liked a <a href=http://twitter.com/YouTube>@YouTube</a> video http://t.co/IodLfG0L George Takei reassures humanity',
+    'Message' => ' I liked a <a href="http://twitter.com/YouTube" target="_blank">@YouTube</a> video http://t.co/IodLfG0L George Takei reassures humanity',
     'Time' => '1317185405',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/118834828903845888',
@@ -436,7 +436,7 @@ return array (
   48 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I liked a <a href=http://twitter.com/YouTube>@YouTube</a> videofrom <a href=http://twitter.com/jonathanborges>@jonathanborges</a> http://t.co/o83hhkST Pega esse rio na estação Sto. An dré',
+    'Message' => ' I liked a <a href="http://twitter.com/YouTube" target="_blank">@YouTube</a> videofrom <a href="http://twitter.com/jonathanborges" target="_blank">@jonathanborges</a> http://t.co/o83hhkST Pega esse rio na estação Sto. An dré',
     'Time' => '1317146152',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/118670189247213568',
@@ -445,7 +445,7 @@ return array (
   49 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I liked a <a href=http://twitter.com/YouTube>@YouTube</a> videofrom <a href=http://twitter.com/belezus>@belezus</a> http://t.co/lDWpZDD1 Linha vergonha amarela do metro',
+    'Message' => ' I liked a <a href="http://twitter.com/YouTube" target="_blank">@YouTube</a> videofrom <a href="http://twitter.com/belezus" target="_blank">@belezus</a> http://t.co/lDWpZDD1 Linha vergonha amarela do metro',
     'Time' => '1317146088',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/118669920119685121',
@@ -454,7 +454,7 @@ return array (
   50 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I liked a <a href=http://twitter.com/YouTube>@YouTube</a> videofrom <a href=http://twitter.com/rernandi>@rernandi</a> http://t.co/l0unstgo Situação caótica na linha amarela do metrô',
+    'Message' => ' I liked a <a href="http://twitter.com/YouTube" target="_blank">@YouTube</a> videofrom <a href="http://twitter.com/rernandi" target="_blank">@rernandi</a> http://t.co/l0unstgo Situação caótica na linha amarela do metrô',
     'Time' => '1317146087',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/118669917905104898',
@@ -463,7 +463,7 @@ return array (
   51 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' Se eu faço um trabalho incompetente como a galera do <a href=http://twitter.com/metrosp_oficial>@metrosp_oficial</a>, sou demitido na hora. Eles fazem greve e ainda ganham aumento.',
+    'Message' => ' Se eu faço um trabalho incompetente como a galera do <a href="http://twitter.com/metrosp_oficial" target="_blank">@metrosp_oficial</a>, sou demitido na hora. Eles fazem greve e ainda ganham aumento.',
     'Time' => '1317146026',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/118669662442627072',
@@ -472,7 +472,7 @@ return array (
   52 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' Além de ter a honra de participar da gravação, você ainda ganha um certificado de babaca oficial, concedido pelo <a href=http://twitter.com/metrosp_oficial>@metrosp_oficial</a>. #ficadica',
+    'Message' => ' Além de ter a honra de participar da gravação, você ainda ganha um certificado de babaca oficial, concedido pelo <a href="http://twitter.com/metrosp_oficial" target="_blank">@metrosp_oficial</a>. #ficadica',
     'Time' => '1317145805',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/118668733353959425',
@@ -481,7 +481,7 @@ return array (
   53 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' Ta afim de participar das gravações de ataques zumbis no <a href=http://twitter.com/metrosp_oficial>@metrosp_oficial</a>? É só aparecer nas estações luz ou consolação e pagar R 2,90!',
+    'Message' => ' Ta afim de participar das gravações de ataques zumbis no <a href="http://twitter.com/metrosp_oficial" target="_blank">@metrosp_oficial</a>? É só aparecer nas estações luz ou consolação e pagar R 2,90!',
     'Time' => '1317145735',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/118668441661083649',
@@ -490,7 +490,7 @@ return array (
   54 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' Olha aqui um trecho das gravações de um ataque de zumbis na estação consolação do <a href=http://twitter.com/metrosp_oficial>@metrosp_oficial</a> http://t.co/K7S5z7il',
+    'Message' => ' Olha aqui um trecho das gravações de um ataque de zumbis na estação consolação do <a href="http://twitter.com/metrosp_oficial" target="_blank">@metrosp_oficial</a> http://t.co/K7S5z7il',
     'Time' => '1317145680',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/118668207191105536',
@@ -499,7 +499,7 @@ return array (
   55 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I liked a <a href=http://twitter.com/YouTube>@YouTube</a> video http://t.co/m7CLXf7m Metro SP, VIA 4 Linha Amarela estação Consolação.',
+    'Message' => ' I liked a <a href="http://twitter.com/YouTube" target="_blank">@YouTube</a> video http://t.co/m7CLXf7m Metro SP, VIA 4 Linha Amarela estação Consolação.',
     'Time' => '1317145574',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/118667762871713792',
@@ -508,7 +508,7 @@ return array (
   56 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' você sabia que as cenas de zumbi da nova temporada de walking dead serão gravadas nas integrações da linha amarela do <a href=http://twitter.com/metrosp_oficial>@metrosp_oficial</a> ?',
+    'Message' => ' você sabia que as cenas de zumbi da nova temporada de walking dead serão gravadas nas integrações da linha amarela do <a href="http://twitter.com/metrosp_oficial" target="_blank">@metrosp_oficial</a> ?',
     'Time' => '1317145503',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/118667468150550530',
@@ -517,7 +517,7 @@ return array (
   57 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' Gostaria de saber o que o <a href=http://twitter.com/metrosp_oficial>@metrosp_oficial</a> tem a dizer sobre a coisa ridicula que é a intregacao com a linha 4 nas estacoes luz e consolacao',
+    'Message' => ' Gostaria de saber o que o <a href="http://twitter.com/metrosp_oficial" target="_blank">@metrosp_oficial</a> tem a dizer sobre a coisa ridicula que é a intregacao com a linha 4 nas estacoes luz e consolacao',
     'Time' => '1317143308',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/118658259073777664',
@@ -544,7 +544,7 @@ return array (
   60 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/rafaelmartines>@rafaelmartines</a> :\'(',
+    'Message' => ' <a href="http://twitter.com/rafaelmartines" target="_blank">@rafaelmartines</a> :\'(',
     'Time' => '1317059076',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/118304965981782017',
@@ -553,7 +553,7 @@ return array (
   61 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/rafaelmartines>@rafaelmartines</a> não zombe da minha familia.',
+    'Message' => ' <a href="http://twitter.com/rafaelmartines" target="_blank">@rafaelmartines</a> não zombe da minha familia.',
     'Time' => '1317058977',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/118304550724710401',
@@ -589,7 +589,7 @@ return array (
   65 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' Tava no show do motorhead, senão é mentira. RT <a href=http://twitter.com/heloisapires>@heloisapires</a>: Estou saindo do melhor show da minha vida! :D',
+    'Message' => ' Tava no show do motorhead, senão é mentira. RT <a href="http://twitter.com/heloisapires" target="_blank">@heloisapires</a>: Estou saindo do melhor show da minha vida! :D',
     'Time' => '1317020010',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/118141112631300097',
@@ -652,7 +652,7 @@ return array (
   72 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/g0nc1n>@g0nc1n</a> no g1 pq no youtoba é só pros gringos',
+    'Message' => ' <a href="http://twitter.com/g0nc1n" target="_blank">@g0nc1n</a> no g1 pq no youtoba é só pros gringos',
     'Time' => '1317017949',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/118132465649979392',
@@ -760,7 +760,7 @@ return array (
   84 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' 3 musicas da <a href=http://twitter.com/bandamatanza>@bandamatanza</a> nos tt`s. coisa linda.',
+    'Message' => ' 3 musicas da <a href="http://twitter.com/bandamatanza" target="_blank">@bandamatanza</a> nos tt`s. coisa linda.',
     'Time' => '1316993959',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/118031846977175553',
@@ -904,7 +904,7 @@ return array (
   100 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I unlocked the Faux-livia sticker on <a href=http://twitter.com/GetGlue>@GetGlue</a>! http://t.co/WXxX4ECU',
+    'Message' => ' I unlocked the Faux-livia sticker on <a href="http://twitter.com/GetGlue" target="_blank">@GetGlue</a>! http://t.co/WXxX4ECU',
     'Time' => '1316925022',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/117742704175222784',
@@ -949,7 +949,7 @@ return array (
   105 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I unlocked the Fringe Season 4 Premiere sticker on <a href=http://twitter.com/GetGlue>@GetGlue</a>! http://t.co/zJpXjvJ0',
+    'Message' => ' I unlocked the Fringe Season 4 Premiere sticker on <a href="http://twitter.com/GetGlue" target="_blank">@GetGlue</a>! http://t.co/zJpXjvJ0',
     'Time' => '1316845237',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/117408058237390848',
@@ -958,7 +958,7 @@ return array (
   106 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I\'m watching Fringe (5171 others checked-in) http://t.co/L3ml8vbw <a href=http://twitter.com/GetGlue>@GetGlue</a> <a href=http://twitter.com/FRINGEonFOX>@FRINGEonFOX</a>',
+    'Message' => ' I\'m watching Fringe (5171 others checked-in) http://t.co/L3ml8vbw <a href="http://twitter.com/GetGlue" target="_blank">@GetGlue</a> <a href="http://twitter.com/FRINGEonFOX" target="_blank">@FRINGEonFOX</a>',
     'Time' => '1316845234',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/117408046161997824',
@@ -967,7 +967,7 @@ return array (
   107 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I\'m a Fan of Rework on <a href=http://twitter.com/GetGlue>@GetGlue</a> http://t.co/D2BqKObr',
+    'Message' => ' I\'m a Fan of Rework on <a href="http://twitter.com/GetGlue" target="_blank">@GetGlue</a> http://t.co/D2BqKObr',
     'Time' => '1316837599',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/117376024534204416',
@@ -976,7 +976,7 @@ return array (
   108 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I\'m reading Rework http://t.co/yXBk8oA5 <a href=http://twitter.com/GetGlue>@GetGlue</a> #Rework',
+    'Message' => ' I\'m reading Rework http://t.co/yXBk8oA5 <a href="http://twitter.com/GetGlue" target="_blank">@GetGlue</a> #Rework',
     'Time' => '1316837595',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/117376009187229696',
@@ -985,7 +985,7 @@ return array (
   109 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/thomas_kkk>@thomas_kkk</a> show de bola! Sucesso no novo desafio!',
+    'Message' => ' <a href="http://twitter.com/thomas_kkk" target="_blank">@thomas_kkk</a> show de bola! Sucesso no novo desafio!',
     'Time' => '1316832014',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/117352597416980480',
@@ -994,7 +994,7 @@ return array (
   110 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/thomas_kkk>@thomas_kkk</a> eita, novo emprego?',
+    'Message' => ' <a href="http://twitter.com/thomas_kkk" target="_blank">@thomas_kkk</a> eita, novo emprego?',
     'Time' => '1316827903',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/117335357145616385',
@@ -1057,7 +1057,7 @@ return array (
   117 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I unlocked the Ready for Fall TV! sticker on <a href=http://twitter.com/GetGlue>@GetGlue</a>! http://t.co/iOsxLBGJ',
+    'Message' => ' I unlocked the Ready for Fall TV! sticker on <a href="http://twitter.com/GetGlue" target="_blank">@GetGlue</a>! http://t.co/iOsxLBGJ',
     'Time' => '1316798083',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/117210282002092032',
@@ -1066,7 +1066,7 @@ return array (
   118 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' Season 5 :) http://t.co/V4s6fTzT <a href=http://twitter.com/GetGlue>@GetGlue</a> <a href=http://twitter.com/BigBang_CBS>@BigBang_CBS</a>',
+    'Message' => ' Season 5 :) http://t.co/V4s6fTzT <a href="http://twitter.com/GetGlue" target="_blank">@GetGlue</a> <a href="http://twitter.com/BigBang_CBS" target="_blank">@BigBang_CBS</a>',
     'Time' => '1316798080',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/117210268261552128',
@@ -1111,7 +1111,7 @@ return array (
   123 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/kgc_rhcp>@kgc_rhcp</a> ta vendo? meus movimentos são friamente calculados! Até quando eu to morrendo',
+    'Message' => ' <a href="http://twitter.com/kgc_rhcp" target="_blank">@kgc_rhcp</a> ta vendo? meus movimentos são friamente calculados! Até quando eu to morrendo',
     'Time' => '1316731904',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/116932708772478976',
@@ -1120,7 +1120,7 @@ return array (
   124 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I liked a <a href=http://twitter.com/YouTube>@YouTube</a> video http://t.co/3EqmqAQE Kirk Hammett-Embarrassing Blunder',
+    'Message' => ' I liked a <a href="http://twitter.com/YouTube" target="_blank">@YouTube</a> video http://t.co/3EqmqAQE Kirk Hammett-Embarrassing Blunder',
     'Time' => '1316730241',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/116925732265017344',
@@ -1138,7 +1138,7 @@ return array (
   126 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' Visao que a <a href=http://twitter.com/kgc_rhcp>@kgc_rhcp</a> tinha do palco http://t.co/5126NB9c',
+    'Message' => ' Visao que a <a href="http://twitter.com/kgc_rhcp" target="_blank">@kgc_rhcp</a> tinha do palco http://t.co/5126NB9c',
     'Time' => '1316714618',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/116860202837487616',
@@ -1174,7 +1174,7 @@ return array (
   130 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/Eu_ana>@Eu_ana</a> deu sim. Perdi umas 4 musicas, mas conseguir assistir o final!',
+    'Message' => ' <a href="http://twitter.com/Eu_ana" target="_blank">@Eu_ana</a> deu sim. Perdi umas 4 musicas, mas conseguir assistir o final!',
     'Time' => '1316713953',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/116857415919603712',
@@ -1183,7 +1183,7 @@ return array (
   131 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' Favor levar pro iml RT <a href=http://twitter.com/heloisapires>@heloisapires</a> hoje estou mortinha! favor não incomodar! :P',
+    'Message' => ' Favor levar pro iml RT <a href="http://twitter.com/heloisapires" target="_blank">@heloisapires</a> hoje estou mortinha! favor não incomodar! :P',
     'Time' => '1316712902',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/116853006527496192',
@@ -1201,7 +1201,7 @@ return array (
   133 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/Eu_ana>@Eu_ana</a> nao. Foi nada demais. Caiu minha pressao la no meio do show :(',
+    'Message' => ' <a href="http://twitter.com/Eu_ana" target="_blank">@Eu_ana</a> nao. Foi nada demais. Caiu minha pressao la no meio do show :(',
     'Time' => '1316711600',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/116847545292046336',
@@ -1300,7 +1300,7 @@ return array (
   144 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' Regex is ur friend, padawan RT <a href=http://twitter.com/rafaelmartines>@rafaelmartines</a> Regex! Y U so Fucking Hard? :\'(',
+    'Message' => ' Regex is ur friend, padawan RT <a href="http://twitter.com/rafaelmartines" target="_blank">@rafaelmartines</a> Regex! Y U so Fucking Hard? :\'(',
     'Time' => '1316655328',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/116611524952473601',
@@ -1318,7 +1318,7 @@ return array (
   146 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/rafaelmartines>@rafaelmartines</a> tambem sinto falta desses tempos, amigo :(',
+    'Message' => ' <a href="http://twitter.com/rafaelmartines" target="_blank">@rafaelmartines</a> tambem sinto falta desses tempos, amigo :(',
     'Time' => '1316652854',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/116601146101084160',
@@ -1345,7 +1345,7 @@ return array (
   149 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' CHART OF THE DAY: Facebook\'s Huge Trove Of Photos In Context http://t.co/URKkH1C5 via <a href=http://twitter.com/sai>@sai</a>',
+    'Message' => ' CHART OF THE DAY: Facebook\'s Huge Trove Of Photos In Context http://t.co/URKkH1C5 via <a href="http://twitter.com/sai" target="_blank">@sai</a>',
     'Time' => '1316567898',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/116244814646882304',
@@ -1354,7 +1354,7 @@ return array (
   150 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/izzynobre>@izzynobre</a> ipod nano no pulso = piromba no rabo',
+    'Message' => ' <a href="http://twitter.com/izzynobre" target="_blank">@izzynobre</a> ipod nano no pulso = piromba no rabo',
     'Time' => '1316567777',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/116244309623308288',
@@ -1390,7 +1390,7 @@ return array (
   154 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I\'m reading Rework http://t.co/yXBk8oA5 <a href=http://twitter.com/GetGlue>@GetGlue</a> #Rework',
+    'Message' => ' I\'m reading Rework http://t.co/yXBk8oA5 <a href="http://twitter.com/GetGlue" target="_blank">@GetGlue</a> #Rework',
     'Time' => '1316537404',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/116116916514459648',
@@ -1435,7 +1435,7 @@ return array (
   159 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I liked a <a href=http://twitter.com/YouTube>@YouTube</a> video http://t.co/w1HO7EaN menina se sente vitima de bullying ao ser chamada de c',
+    'Message' => ' I liked a <a href="http://twitter.com/YouTube" target="_blank">@YouTube</a> video http://t.co/w1HO7EaN menina se sente vitima de bullying ao ser chamada de c',
     'Time' => '1316463501',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/115806944941441025',
@@ -1471,7 +1471,7 @@ return array (
   163 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/thomas_kkk>@thomas_kkk</a> celular ou mini tablet?..hehehhehe',
+    'Message' => ' <a href="http://twitter.com/thomas_kkk" target="_blank">@thomas_kkk</a> celular ou mini tablet?..hehehhehe',
     'Time' => '1316455003',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/115771298554200065',
@@ -1489,7 +1489,7 @@ return array (
   165 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I unlocked the Location Rookie sticker on <a href=http://twitter.com/GetGlue>@GetGlue</a>! http://t.co/pfkX6Tjp',
+    'Message' => ' I unlocked the Location Rookie sticker on <a href="http://twitter.com/GetGlue" target="_blank">@GetGlue</a>! http://t.co/pfkX6Tjp',
     'Time' => '1316449319',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/115747459141074945',
@@ -1498,7 +1498,7 @@ return array (
   166 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I\'m listening to nerdcast http://t.co/NAmL1tP7 <a href=http://twitter.com/GetGlue>@GetGlue</a> #Nerdcast',
+    'Message' => ' I\'m listening to nerdcast http://t.co/NAmL1tP7 <a href="http://twitter.com/GetGlue" target="_blank">@GetGlue</a> #Nerdcast',
     'Time' => '1316449312',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/115747430103920640',
@@ -1507,7 +1507,7 @@ return array (
   167 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' I\'m watching The Office (125 others checked-in) http://t.co/Fvs62eJL <a href=http://twitter.com/GetGlue>@GetGlue</a> <a href=http://twitter.com/theofficenbc>@theofficenbc</a>',
+    'Message' => ' I\'m watching The Office (125 others checked-in) http://t.co/Fvs62eJL <a href="http://twitter.com/GetGlue" target="_blank">@GetGlue</a> <a href="http://twitter.com/theofficenbc" target="_blank">@theofficenbc</a>',
     'Time' => '1316417853',
     'ImageUrl' => 'http://a2.twimg.com/profile_images/1458819705/Foto_criada_em_2011-07-03__s_20.34__3_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/115615482681364480',
@@ -1516,7 +1516,7 @@ return array (
   168 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' RT <a href=http://twitter.com/PerolasDoENEM>@PerolasDoENEM</a>: O Lavoisier era assim chamado pois se lavava facilmente, ou seja, lavou + easyer #PerolasDoENEM *',
+    'Message' => ' RT <a href="http://twitter.com/PerolasDoENEM" target="_blank">@PerolasDoENEM</a>: O Lavoisier era assim chamado pois se lavava facilmente, ou seja, lavou + easyer #PerolasDoENEM *',
     'Time' => '1289956343',
     'ImageUrl' => 'http://a1.twimg.com/profile_images/1136126265/Duke_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/4703328944529408',
@@ -1525,7 +1525,7 @@ return array (
   169 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' De repente veio o caldo infernal: <a href=http://bit.ly/aoxCbH>http://bit.ly/aoxCbH</a>',
+    'Message' => ' De repente veio o caldo infernal: <a href="http://bit.ly/aoxCbH" target="_blank">http://bit.ly/aoxCbH</a>',
     'Time' => '1284824251',
     'ImageUrl' => 'http://a1.twimg.com/profile_images/1101001605/Coringa2_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/24857823200',
@@ -1552,7 +1552,7 @@ return array (
   172 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' Sabe que ia precisar usar isso um dia: <a href=http://cufon.shoqolate.com/generate/>http://cufon.shoqolate.com/generate/</a>',
+    'Message' => ' Sabe que ia precisar usar isso um dia: <a href="http://cufon.shoqolate.com/generate/" target="_blank">http://cufon.shoqolate.com/generate/</a>',
     'Time' => '1278720839',
     'ImageUrl' => 'http://a1.twimg.com/profile_images/584279956/howard-wolowitz_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/18157560701',
@@ -1561,7 +1561,7 @@ return array (
   173 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' Muito legal esses grficos novos da last.fm: <a href=http://bit.ly/9qhWT3>http://bit.ly/9qhWT3</a>',
+    'Message' => ' Muito legal esses grficos novos da last.fm: <a href="http://bit.ly/9qhWT3" target="_blank">http://bit.ly/9qhWT3</a>',
     'Time' => '1271642615',
     'ImageUrl' => 'http://a1.twimg.com/profile_images/584279956/howard-wolowitz_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/12430254504',
@@ -1579,7 +1579,7 @@ return array (
   175 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' Ajude a exterminar o cdigo ruim de projetos open source: <a href=http://goo.gl/6txv>http://goo.gl/6txv</a>',
+    'Message' => ' Ajude a exterminar o cdigo ruim de projetos open source: <a href="http://goo.gl/6txv" target="_blank">http://goo.gl/6txv</a>',
     'Time' => '1264118520',
     'ImageUrl' => 'http://a1.twimg.com/profile_images/584279956/howard-wolowitz_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/8046884202',
@@ -1606,7 +1606,7 @@ return array (
   178 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' USP - Programa de Vero 2010 <a href=http://bit.ly/5dj5fB>http://bit.ly/5dj5fB</a> . Ateno especial para os cursos sobre desenvolvimento gil!',
+    'Message' => ' USP - Programa de Vero 2010 <a href="http://bit.ly/5dj5fB" target="_blank">http://bit.ly/5dj5fB</a> . Ateno especial para os cursos sobre desenvolvimento gil!',
     'Time' => '1263497267',
     'ImageUrl' => 'http://a1.twimg.com/profile_images/584279956/howard-wolowitz_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/7758087100',
@@ -1615,7 +1615,7 @@ return array (
   179 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/daniellutz>@daniellutz</a> esqueci que o senhor  o POGMASTER =D',
+    'Message' => ' <a href="http://twitter.com/daniellutz" target="_blank">@daniellutz</a> esqueci que o senhor  o POGMASTER =D',
     'Time' => '1263347169',
     'ImageUrl' => 'http://a1.twimg.com/profile_images/584279956/howard-wolowitz_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/7691764800',
@@ -1624,7 +1624,7 @@ return array (
   180 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' <a href=http://twitter.com/daniellutz>@daniellutz</a> O pior  que no windows XP ainda existe um furo igual! Fiquei meses usando uma cpia expirada com esse truque',
+    'Message' => ' <a href="http://twitter.com/daniellutz" target="_blank">@daniellutz</a> O pior  que no windows XP ainda existe um furo igual! Fiquei meses usando uma cpia expirada com esse truque',
     'Time' => '1262809370',
     'ImageUrl' => 'http://a1.twimg.com/profile_images/584279956/howard-wolowitz_normal.jpg',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/7452071402',
@@ -1642,7 +1642,7 @@ return array (
   182 => 
   array (
     'User' => 'davi_alexandre',
-    'Message' => ' Como tudo nesse pas de merda, a wikipedia pt  uma palhaada! <a href=http://bit.ly/5hJoRX>http://bit.ly/5hJoRX</a>',
+    'Message' => ' Como tudo nesse pas de merda, a wikipedia pt  uma palhaada! <a href="http://bit.ly/5hJoRX" target="_blank">http://bit.ly/5hJoRX</a>',
     'Time' => '1258943358',
     'ImageUrl' => 'http://s.twimg.com/a/1258674567/images/default_profile_6_normal.png',
     'MessageUrl' => 'http://twitter.com/davi_alexandre/statuses/5963600200',
@@ -1651,7 +1651,7 @@ return array (
   183 => 
   array (
     'User' => 'daniellutz',
-    'Message' => ' RT <a href=http://twitter.com/davi_alexandre>@davi_alexandre</a>: RT <a href=http://twitter.com/karlisson>@karlisson</a>: Professor com senso de humor, que coisa rara! RT: <a href=http://twitter.com/anapads>@anapads</a>: <a href=http://bit.ly/DBagg>http://bit.ly/DBagg</a> epic.',
+    'Message' => ' RT <a href="http://twitter.com/davi_alexandre" target="_blank">@davi_alexandre</a>: RT <a href="http://twitter.com/karlisson" target="_blank">@karlisson</a>: Professor com senso de humor, que coisa rara! RT: <a href="http://twitter.com/anapads" target="_blank">@anapads</a>: <a href="http://bit.ly/DBagg" target="_blank">http://bit.ly/DBagg</a> epic.',
     'Time' => '1258737366',
     'ImageUrl' => 'http://s.twimg.com/a/1258674567/images/default_profile_4_normal.png',
     'MessageUrl' => 'http://twitter.com/daniellutz/statuses/5894485501',
