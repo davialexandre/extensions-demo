@@ -2,7 +2,10 @@
     <h2>Yiinfinite-Scroll</h2>
     <p>This extension uses the infinite scroll jQuery plugin, from http://www.infinite-scroll.com/ to create an infinite scrolling pagination, like in twitter. This kind of pagination is also called Endless Scroll.</p>
     <p>Scroll down and see the magic happen!</p>
-    <p><?php echo CHtml::link('Show me the code!', array('yiinfinite_scroll/code'), array('class' => 'colorbox')); ?></p>
+    <ul id="extension-links">
+        <li><?php echo CHtml::link('Show me the code!', array('yiinfinite_scroll/code'), array('class' => 'colorbox link-code')); ?></li>
+        <li><?php echo CHtml::link('Fork me at Github!', 'https://github.com/davialexandre/yiinfinite-scroll', array('class' => 'link-repo-github', 'target' => '_blank')); ?></li>
+    </ul>
 </div>
 <div id="demo-area">
     <div class="items">

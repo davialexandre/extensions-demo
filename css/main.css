@@ -237,6 +237,23 @@ div.search-form
     float: left;
 }
 
+ul#extension-links li {
+    padding: 2px;
+}
+
+a.link-code, a.link-repo-github {
+    padding-left: 20px;
+    padding-top: 1px;
+}
+
+a.link-code {
+    background: url(images/document-php.png) bottom left no-repeat;
+}
+
+a.link-repo-github {
+    background: url(images/github-16x16.png) bottom left no-repeat;
+}
+
 .code {
 	font-size: 11px;
     width: 730px;
