@@ -1,6 +1,6 @@
 <?php
 
-class Simple_CalendarController extends Controller {
+class Simple_calendarController extends Controller {
     
     public function actionIndex() {
         $selected_date = $this->getSelectedDate();

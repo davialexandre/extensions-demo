@@ -1,6 +1,6 @@
 <?php
 
-class Yiinfinite_ScrollController extends Controller {
+class Yiinfinite_scrollController extends Controller {
     
     
     public function actionIndex() {
