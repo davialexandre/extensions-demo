@@ -17,7 +17,6 @@
     <?php Yii::app()->clientScript->registerCoreScript('jquery'); ?>
     <?php Yii::app()->clientScript->registerScriptFile(Yii::app()->baseUrl.'/js/jquery.colorbox-min.js'); ?>
     <?php Yii::app()->clientScript->registerScriptFile(Yii::app()->baseUrl.'/js/jquery.stickyPanel.min.js'); ?>
-    <?php Yii::app()->clientScript->registerScriptFile(Yii::app()->baseUrl.'/js/scripts.js'); ?>
     <?php Yii::app()->clientScript->registerScript('colorbox', '$(".colorbox").colorbox({maxHeight: "80%"})', CClientScript::POS_READY); ?>
     <?php Yii::app()->clientScript->registerScript('extension-information', '$(".extension-information").stickyPanel()', CClientScript::POS_READY); ?>
 	<title><?php echo CHtml::encode($this->pageTitle); ?></title>
