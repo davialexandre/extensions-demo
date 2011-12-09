@@ -45,10 +45,12 @@ body
 {
 	padding: 10px 20px;
 	font-size: 200%;
+    float: left;
 }
 
 #mainmenu
 {
+    clear: both;
 	background:white url(bg.gif) repeat-x left top;
 }
 
@@ -226,6 +228,20 @@ div.search-form
 .operations li a:hover
 {
 	background: #80CFFF;
+}
+
+/*
+* Ad-sense
+*/
+
+div#adsense-bottom {
+    width: 728px;
+    margin: 0 auto;
+}
+
+div#adsense-top {
+    width: 468px;
+    float: right;
 }
 
 /**

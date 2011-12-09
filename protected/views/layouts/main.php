@@ -28,6 +28,19 @@
 
 	<div id="header">
 		<div id="logo"><?php echo CHtml::encode(Yii::app()->name); ?></div>
+        <div id="adsense-top">
+            <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-6061575478612013";
+            /* Extensions Demo topo */
+            google_ad_slot = "8922988517";
+            google_ad_width = 468;
+            google_ad_height = 60;
+            //-->
+            </script>
+            <script type="text/javascript"
+            src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+            </script>
+        </div>
 	</div><!-- header -->
 
 	<div id="mainmenu">
@@ -54,16 +67,18 @@
 	</div><!-- footer -->
     
 </div><!-- page -->
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-6061575478612013";
-/* Extensions Demo Leaderboard */
-google_ad_slot = "1146022687";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
+<div id="adsense-bottom">
+    <script type="text/javascript"><!--
+    google_ad_client = "ca-pub-6061575478612013";
+    /* Extensions Demo Leaderboard */
+    google_ad_slot = "1146022687";
+    google_ad_width = 728;
+    google_ad_height = 90;
+    //-->
+    </script>
+    <script type="text/javascript"
+    src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+    </script>
+</div>
 </body>
 </html>
