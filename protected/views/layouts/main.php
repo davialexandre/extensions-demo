@@ -52,8 +52,18 @@
         Fugue icons by <a href="http://p.yusukekamiyamane.com/" target="_blank">Yusuke Kamiyamane</a><br />
         <?php echo Yii::powered(); ?>
 	</div><!-- footer -->
-
+    
 </div><!-- page -->
-
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-6061575478612013";
+/* Extensions Demo Leaderboard */
+google_ad_slot = "1146022687";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 </body>
 </html>
